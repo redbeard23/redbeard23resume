@@ -1,0 +1,33 @@
+body{
+background-color: white;
+
+}
+
+
+main {
+  width: 80%;
+  max-width: 800px;
+  padding: 10px;
+  margin: 0 auto;
+  border: 5px solid black;
+  background-color: yellow;
+}
+
+
+
+
+h1, h2, h3, h4 {
+  font-family: 'Russo One', sans-serif;
+
+
+text-align: center;
+}
+
+h1{
+  font-family: 'Russo One', sans-serif;
+}
+
+
+main img{
+  display: center;
+}
